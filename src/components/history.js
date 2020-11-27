@@ -17,7 +17,7 @@ function History({ summoners, onClearSummoner }) {
           )
         })}
       </ListContainer>
-      <RemoveText onClick={onClearSummoner}>전체삭제</RemoveText>
+      <RemoveText onClick={onClearSummoner}>전체삭제btn</RemoveText>
     </HistoryContainer>
   )
 }
