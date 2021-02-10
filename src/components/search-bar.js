@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
-
-import styled, { css } from 'styled-components'
+import styled from 'styled-components'
 
 function SearchBar({ onAddSummoner }) {
   const [summoner, setSummoner] = useState('')

@@ -1,6 +1,6 @@
 import React from 'react'
 
-function ResultPage() {
+const ResultPage = () => {
   return <div>ResultPage</div>
 }
 
